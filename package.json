@@ -1,11 +1,8 @@
-﻿{
+{
 	"author": "Z3T4",
 	"name": "geometry2d",
 	"description": "Geometry of position in two dimensions",
 	"version": "0.1.1",
-	"repository": {
-		"url": ""
-	},
 	"main": "./lib/geometry.js",
 	"keywords": [
 		"Point",
