@@ -1,6 +1,6 @@
 {
 	"author": "Z3T4",
-	"name": "geometry2d",
+	"name": "2dgeometry",
 	"description": "Geometry of position in two dimensions",
 	"version": "0.1.1",
 	"main": "./lib/geometry.js",
@@ -13,6 +13,6 @@
 	"dependencies": {},
 	"repository": {
 		"type" : "git",
-		"url" : "http://github.com/Z3TA/2dgeometry.git"
+		"url" : "http://github.com/Z3TA/geometry2d.git"
 	}
 }
