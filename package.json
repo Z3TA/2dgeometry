@@ -13,6 +13,6 @@
 	"dependencies": {},
 	"repository": {
 		"type" : "git",
-		"url" : "http://github.com/Z3TA/geometry2d.git"
+		"url" : "http://github.com/Z3TA/2dgeometry.git"
 	}
 }
