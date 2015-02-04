@@ -2,7 +2,7 @@
 	"author": "Z3T4",
 	"name": "2dgeometry",
 	"description": "Vector math for 2d",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"main": "./lib/geometry.js",
 	"keywords": [
 		"Point",
