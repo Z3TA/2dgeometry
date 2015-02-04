@@ -1,8 +1,8 @@
 {
 	"author": "Z3T4",
 	"name": "2dgeometry",
-	"description": "Geometry of position in two dimensions",
-	"version": "0.1.1",
+	"description": "Vector math for 2d",
+	"version": "0.1.2",
 	"main": "./lib/geometry.js",
 	"keywords": [
 		"Point",

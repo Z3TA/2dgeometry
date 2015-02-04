@@ -1,6 +1,6 @@
 ﻿
-2dgeometry
-==========
+# 2dgeometry
+
 
 Some functions for 2d geometry.
 
